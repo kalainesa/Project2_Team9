@@ -123,3 +123,4 @@ ggplot(pseed.sum.max, aes(x = amp.sum.mean, y = met.rate, color = fish)) +
 
 
 
+## The relationship between the sum of amplitude of both fins vs our range of speeds is a negative relationship. As swimming speed increases, the mean amplitude sum decreases.
